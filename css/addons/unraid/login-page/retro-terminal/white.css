@@ -8,9 +8,9 @@
 :root {
 --main-bg-color:#16202A;
 --body-before:none;
---body-after: none;
+--body-after: #70d7f633;
 --body-animation: flicker;
---logo: url(/css/addons/unraid/login-page/alien/logo/wings_yellow.png) center no-repeat;
+--logo: url(/css/addons/unraid/login-page/alien/logo/cephlon.png) center no-repeat;
 --text-color: #ffffff;
 --input-color: #ffffff;
 --link-color: #ffffff;
