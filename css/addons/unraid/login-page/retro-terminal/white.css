@@ -6,11 +6,11 @@
 
 @import url(/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css);
 :root {
---main-bg-color:black;
+--main-bg-color:#16202A;
 --body-before:#70d7f61a;
 --body-after: #70d7f633;
 --body-animation: flicker;
---logo: url(/css/addons/unraid/login-page/alien/logo/wings_shadow.png) center no-repeat;
+--logo: url(/css/addons/unraid/login-page/alien/logo/cephlon.png) center no-repeat;
 --text-color: #ffffff;
 --input-color: #ffffff;
 --link-color: #ffffff;
@@ -19,8 +19,8 @@
 --button-text-color: #ffffff;
 --button-text-color-hover: #000;
 --button-color: #ffffff;
---button-color-hover: #af0606;
---selection-color: #8f2809;
+--button-color-hover: #F79630;
+--selection-color: #eff168;
 --custom-text-header:#ffffff;
 --custom-text-header-shadow:#ffffff;
 --custom-text-header-animation: textflicker;
